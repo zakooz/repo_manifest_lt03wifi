@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<!-- Device fundamentals -->
-    	<project name="zakooz/android_device_samsung_lt03wifi" path="device/samsung/lt03wifi" remote="github" revision="cm-13.0"/>
-	<project name="zakooz/android_vendor_samsung_lt03wifi" path="vendor/samsung/lt03wifi" remote="github" revision="cm-13.0"/>
+    	<project name="exynos5420/android_device_samsung_lt03wifi" path="device/samsung/lt03wifi" remote="github" revision="cm-13.0"/>
+	<project name="zakoo/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0"/>
 	<project name="Joshndroid/android_kernel_samsung_lt03wifi" path="kernel/samsung/lt03wifi" remote="github" revision="cm-13.0"/>
 
 	<!-- Exynos -->
 	<project name="Cyanogenmod/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-13.0"/>
 	<project name="CyanogenMod/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="cm-13.0"/>
 	<project name="CyanogenMod/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-13.0"/>
-	<project name="zakooz/android_hardware_samsung_slsi-cm_exynos5420" path="hardware/samsung_slsi-cm/exynos5420" remote="github" revision="cm-13.0"/>
+	<project name="exynos5420/android_hardware_samsung_slsi-cm_exynos5420" path="hardware/samsung_slsi-cm/exynos5420" remote="github" revision="cm-13.0"/>
 	<project name="CyanogenMod/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-13.0"/>
 	<project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-13.0"/>
 
