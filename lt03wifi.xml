@@ -2,7 +2,7 @@
 <manifest>
 	<!-- Device fundamentals -->
     	<project name="exynos5420/android_device_samsung_lt03wifi" path="device/samsung/lt03wifi" remote="github" revision="cm-13.0"/>
-	<project name="zakoo/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0"/>
+	<project name="exynos5420/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0"/>
 	<project name="Joshndroid/android_kernel_samsung_lt03wifi" path="kernel/samsung/lt03wifi" remote="github" revision="cm-13.0"/>
 
 	<!-- Exynos -->
